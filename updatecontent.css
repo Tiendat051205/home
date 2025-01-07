@@ -1,0 +1,41 @@
+/* Phong cách dành riêng cho trang Update Content */
+.form-update {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.form-update h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.form-update label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.form-update input,
+.form-update textarea,
+.form-update button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-update button {
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+.form-update button:hover {
+    background-color: #0056b3;
+}

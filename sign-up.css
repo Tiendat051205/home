@@ -1,0 +1,20 @@
+#sign-up {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+form input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28A745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
